@@ -12,4 +12,5 @@ function signIn(e) {
         location.href = "/";
     }
     e.preventDefault();
+    window.location.href = "index.html"
 }
