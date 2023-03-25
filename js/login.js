@@ -4,8 +4,9 @@ function signIn(e) {
     let exist = DataAnda.length && 
     JSON.parse(localStorage.getItem('DataAnda')).some(data => data.email.toLowerCase() == email && data.pass.toLowerCase() == pass);
     alert("Berhasil Login");
+    window.location.href = "index.html"
     if(!exist){
-        alert("Incorrect login credentials");
+        alert("Login Gagal");
     }
     else{
         location.href = "/";
