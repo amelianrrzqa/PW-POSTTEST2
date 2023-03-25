@@ -6,4 +6,4 @@ localstorage array pada daftar
 <img src="images/localstr.png">
 
 login berhasil
-https://github.com/amelianrrzqa/PW-POSTTEST2/blob/main/images/log%20berhasil.png
+<img src="images/log berhasil.png">
