@@ -10,6 +10,7 @@ localstorage array pada daftar
 login berhasil
 <img src="images/log berhasil.png">
 
-Session Storage pada contac
+Session Storage di contact (maaf bang arraynya error terus)
 <img src="images/session.png">
 
+(tidak bisa menampilkan data karena saat dicoba selalu error)
