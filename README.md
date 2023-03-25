@@ -7,3 +7,7 @@ localstorage array pada daftar
 
 login berhasil
 <img src="images/log berhasil.png">
+
+Session Storage pada contac
+<img src="images/session.png">
+
