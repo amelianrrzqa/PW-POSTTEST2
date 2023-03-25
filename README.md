@@ -1,5 +1,7 @@
 Nama    : Amelia Rizqa
+
 NIM     : 2109116121
+
 Kelas   : C2
 
 localstorage array pada daftar 
